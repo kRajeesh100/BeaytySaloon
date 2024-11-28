@@ -1,0 +1,176 @@
+@media (min-width: 767px) {
+    .servicecard {
+       margin-left: 67%;
+    }
+ }
+ /* @media only screen and (min-width:540px) and (max-width:720px){
+ .Quickview{
+   margin-left: 20vh;
+ }
+} */
+.media{
+    list-style-type: none;
+    display: flex;
+}
+.facebook{
+    color: white;
+}
+.facebook:hover{
+    transform: scale(1.1);
+}
+.instagram{
+    color: white;
+}
+.instagram:hover{
+    transform: scale(1.1);
+}
+.twitter{
+    color: white;
+}
+.twitter:hover{
+    transform: scale(1.1);
+}
+.content1{
+    margin-bottom: 10%;
+    margin-right: 22%;
+}
+p{
+    font-size: 20px;
+}
+.portosalon{
+    font-size: 70px;
+    font-style: italic;
+}
+.content2{
+    margin-bottom:10%;
+    margin-left: 34%;
+    position:fixed;
+}
+.portostyle{
+    margin-left: 10%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250px;
+    color: white;
+    opacity: 0.2;
+}
+.page2{
+    margin-left: 10vh;
+}
+.page2cont{
+    padding-top: 7%;
+    margin-left: 7%;
+}
+.Aboutcont{
+    font-style: italic;
+    font-size: 40px;
+    font-weight:bolder;
+}
+.navbody{
+    background-color: whitesmoke;
+}
+.porto{
+    background-color: rgba(95, 97, 97, 0.884);
+}
+.intro{
+    margin-left: 5vh;
+}
+.search{
+    margin-left: 450px;
+}
+.zoom{
+    height: 8vh;
+    width: 25vh;
+    margin-right: 5%;
+}
+.zoom:hover{
+    transform: scale(1.1);
+}
+
+.aboutpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    text-align: justify;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.about1{
+        display: flex;
+}
+.abouttext{
+    color: white;
+    padding-left: 80%;
+}
+.carousel1{
+    margin-left: 15%;
+}
+.services{
+    margin:8% 10%;
+    }
+.servicehead{
+    font-style: italic;
+}
+.cards{
+    justify-content: space-evenly;
+}
+.card{
+    height: 5vh;
+    width: 15vh;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.img1{
+    width: 50%;
+    margin-top: 3vh;
+    margin-left:40%;
+    opacity: 0.2;
+}
+.clt{
+    width: 35%;
+    height: 300px;
+}
+.page4{
+    border: 2px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+}
+#Client{
+    margin-top: 5vh;
+    font-family:serif;
+    font-size: 5vh;
+    font-style: italic;
+}
+
+.shop{
+    margin:20% 10%;
+}
+.shophead{
+    font-style: italic;
+}
+.page5{
+    height: 50px;
+    width: 355px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: black;
+    color: white;
+} 
+h5{
+    font-size: 5px;
+    margin: 10px;
+}
+.boxpage7{
+    height:230px;
+    border: 2px solid black;
+    background-color: #222529;     
+}
+.contact:hover{
+    color: black;
+}
+.boxtheme:hover{
+    transition: 0.7s;
+    transform: scale(1.1);
+}
